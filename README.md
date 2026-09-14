@@ -1,6 +1,6 @@
 # Hi, I'm Laura 👋
 
-Software engineer passionate about the intersection of **AI, immersive media, and human interaction**.
+Software engineer passionate about the intersection of **AI, immersive media, and human interaction as well as developing new ideas**.
 
 ---
 
